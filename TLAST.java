@@ -2,10 +2,11 @@
 //12S25012 - Jusmer Pasaribu//
 
 
+
 import java.util.*;
 import java.lang.Math;
 
-public class TLAST {
+public class  TLAST {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
