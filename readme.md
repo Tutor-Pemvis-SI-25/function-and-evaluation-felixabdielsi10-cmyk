@@ -17,6 +17,7 @@ Jika prioritas di atas 3: "Penting! Anda harus mengerjakan tugas ini segera"
 Jika prioritas di antara 1.5 hingga 3: "Tugas ini memiliki prioritas menengah"
 Jika prioritas di bawah 1.5: "Tugas ini relatif ringan, namun jangan tunda terlalu lama"
 
+
 ## Input - Output Simulation
 
 Dalam simulasi ini, pengguna akan memasukkan perintah awal dan kemudian akan diikuti oleh setiap tindakan yang akan dilakukan oleh program sesuai dengan perintah sebelumnya.Berikut adalah contoh simulasi Input - Output
